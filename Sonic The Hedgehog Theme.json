@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "author": "W0LfP4Ck#1120",
+        "name": "Sonic The Hedgehog Theme",
+        "version": "1.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/furygaming1120\/Sonic-Theme-For-Aliucord\/main\/Sonic%20the%20hedgehog%20(1).jpg",
+        "blur_radius": 10
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/furygaming1120\/Sonic-Theme-For-Aliucord\/main\/NiseSegaSonic.TTF"
+    },
+    "simple_colors": {
+        "background": 855,
+        "mention_highlight": 1492636056,
+        "active_channel": -13526728,
+        "accent": -2480856,
+        "background_secondary": 309
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
